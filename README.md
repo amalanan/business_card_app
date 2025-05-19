@@ -12,8 +12,6 @@ This Flutter application displays a digital business card for Thawval Sany, a Fl
   - Professional title
   - Company name
 
-## Screenshot
-
 ## Getting Started
 
 ### Prerequisites
